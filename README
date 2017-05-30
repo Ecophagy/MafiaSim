@@ -1,1 +1,4 @@
-A basic simulation for Mafia games. Lynches and Night kills are chose purely at random and all players are vanilla. Produces surprsingly low win rates for town.
+A basic simulation for Mafia games. Lynches and Night kills are chose purely at random and all players are vanilla.
+
+MafiaSim takes in a number of Town and Mafia and cvalcuates a win rate
+BalanceSim finds the Mafia:Town ratio required for a (roughgly) 50% win rate
